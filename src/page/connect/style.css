@@ -1,0 +1,17 @@
+.notification {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.online {
+  background-color: #4caf50; /* Màu xanh dương cho trạng thái online */
+}
+
+.offline {
+  background-color: #f44336; /* Màu đỏ cho trạng thái offline */
+}
