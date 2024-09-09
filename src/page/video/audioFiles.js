@@ -74,7 +74,7 @@ import AKhongCoY from "./videos/AKhongCoY.mp3";
 import KhongYeuDenTheDau from "./videos/KhongYeuDenTheDau.mp3";
 import NoNhau1Loi from "./videos/NoNhau1Loi.mp3";
 import EmLamKeDangThuongGoc from "./videos/EmLamKeDangThuongGoc.mp3";
-import List1 from "./videos/List1.mp3";
+// import List1 from "./videos/List1.mp3";
 import LaoTamKhoTu from "./videos/LaoTamKhoTu.mp3";
 import DiGiuaTroiRucRo from "./videos/DiGiuaTroiRucRo.mp3";
 
@@ -223,10 +223,10 @@ export const audios = [
     name: "MỘT NGÀY BUỒN",
     url: MotNgayBuon,
   },
-  {
-    name: "TUYỂN TẬP NHẠC TRẺ BALAD HOT TIKTOK 2023 - (NH)",
-    url: List1,
-  },
+  // {
+  //   name: "TUYỂN TẬP NHẠC TRẺ BALAD HOT TIKTOK 2023 - (NH)",
+  //   url: List1,
+  // },
   {
     name: "KHÔNG YÊU ĐẾN THẾ ĐÂU - (NH)",
     url: KhongYeuDenTheDau,
